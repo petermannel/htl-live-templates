@@ -39,6 +39,9 @@ Depending on the command, the markup is generated automatically.
 #### sly-attribute
 `data-sly-attribute="${$VAR0$}"`
 
+### Sample
+(/resources/intellij.gif) 
+
 ### Installation
 
 Download [latest release](https://github.com/pmannel/htl-live-templates/releases).
