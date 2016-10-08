@@ -40,7 +40,7 @@ Depending on the command, the markup is generated automatically.
 `data-sly-attribute="${$VAR0$}"`
 
 ### Sample
-(/resources/intellij.gif) 
+!(/resources/intellij.gif) 
 
 ### Installation
 
