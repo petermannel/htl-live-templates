@@ -11,33 +11,33 @@ Depending on the command, the markup is generated automatically.
 
 ### Commands:
 #### $
->${$VAR0$}
+`${$VAR0$}`
 #### sly-use
-><sly data-sly-use.$VAR0$="$className$" />
+`<sly data-sly-use.$VAR0$="$className$" />`
 #### sly-text
->data-sly-text="${$VAR0$ @ context=$VAR1$}"
+`data-sly-text="${$VAR0$ @ context=$VAR1$}"`
 #### sly-test
->data-sly-test="${$VAR0$}"
+`data-sly-test="${$VAR0$}"`
 #### sly-template
-><template data-sly-template.$VAR0$="${ @ $VAR1$}">
+`<template data-sly-template.$VAR0$="${ @ $VAR1$}">
     $END$
-</template>
+</template>`
 #### sly-resource
->data-sly-resource="${'$VAR0$' @ resourceType='$VAR1$'}"
+`data-sly-resource="${'$VAR0$' @ resourceType='$VAR1$'}"`
 #### sly-repeat
->data-sly-repeat="${$VAR0$}"
+`data-sly-repeat="${$VAR0$}"`
 #### sly-list
-> <sly data-sly-list.$VAR0$="${$VAR1$}">
+`<sly data-sly-list.$VAR0$="${$VAR1$}">
  $END$
- </sly>
- #### sly-include
- >data-sly-include="$VAR0$"
- #### sly-comment
- ><!--/* $VAR0$ */-->
- #### sly-call
- >data-sly-call="${$VAR0$ @ $VAR1$}"
- #### sly-attribute
- >data-sly-attribute="${$VAR0$}"
+</sly>`
+#### sly-include
+`data-sly-include="$VAR0$"`
+#### sly-comment
+`<!--/* $VAR0$ */-->`
+#### sly-call
+`data-sly-call="${$VAR0$ @ $VAR1$}"`
+#### sly-attribute
+`data-sly-attribute="${$VAR0$}"`
 
 ### Installation
 
