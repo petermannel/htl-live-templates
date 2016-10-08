@@ -44,6 +44,6 @@ Depending on the command, the markup is generated automatically.
 
 ### Installation
 
-Download [latest release](https://github.com/pmannel/htl-live-templates/releases).
+Download [latest release](https://github.com/petermannel/htl-live-templates/releases).
 
 Install to IntelliJ IDEA, see https://www.jetbrains.com/help/idea/2016.2/sharing-live-templates.html
