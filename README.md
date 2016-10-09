@@ -47,3 +47,7 @@ Depending on the command, the markup is generated automatically.
 Download [latest release](https://github.com/petermannel/htl-live-templates/releases).
 
 Install to IntelliJ IDEA, see https://www.jetbrains.com/help/idea/2016.2/sharing-live-templates.html
+
+### Bonus
+
+I added a IntelliJ IDEA File Template for [Sling Models](https://sling.apache.org/documentation/bundles/models.html) in templates folder.
