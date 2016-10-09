@@ -1,7 +1,7 @@
 <templateSet group="HTL">
   <template name="sly-use" value="&lt;sly data-sly-use.$VAR0$=&quot;$className$&quot; /&gt;" description="data-sly-use" toReformat="false" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="className" expression="classNameComplete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
     </context>
