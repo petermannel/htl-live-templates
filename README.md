@@ -1,3 +1,5 @@
+This Project moved to https://github.com/Cognifide/AEM-Code-Templates
+
 # htl-live-templates
 HTL Live Templates
 
